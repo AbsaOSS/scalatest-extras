@@ -1,9 +1,8 @@
 ScalaTest extras
 ===
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/za.co.absa.commons/scalatest-extras_2.12/badge.svg)](https://search.maven.org/search?q=g:za.co.absa.commons&a=scalatest-extras_2.11)
-
-[//]: # ([![TeamCity build]&#40;https://teamcity.jetbrains.com/app/rest/builds/aggregated/strob:%28locator:%28buildType:%28id:OpenSourceProjects_AbsaOSS_Commons_AutoBuildWithScala212%29,branch:master%29%29/statusIcon.svg&#41;]&#40;https://teamcity.jetbrains.com/viewType.html?buildTypeId=OpenSourceProjects_AbsaOSSSpline_AutomaticBuildsWithTests_Spark24&branch=develop&tab=buildTypeStatusDiv&#41;)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/za.co.absa.commons/scalatest-extras_2.12/badge.svg)](https://search.maven.org/search?q=g:za.co.absa.commons)
+[![TeamCity build](https://teamcity.jetbrains.com/app/rest/builds/aggregated/strob:%28locator:%28buildType:%28id:OpenSourceProjects_AbsaOSS_ScalatestExtras_AutoBuildWithScala212Linux%29,branch:master%29%29/statusIcon.svg)](https://teamcity.jetbrains.com/viewType.html?buildTypeId=OpenSourceProjects_AbsaOSS_ScalatestExtras_AutoBuildWithScala212Linux&branch=master&tab=buildTypeStatusDiv)
 
 ---
 

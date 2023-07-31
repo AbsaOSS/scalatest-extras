@@ -1,0 +1,9 @@
+# IDEA project
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# Maven build
+target/
+pom.xml.bkp
