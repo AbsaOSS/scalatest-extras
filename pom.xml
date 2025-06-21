@@ -46,7 +46,7 @@
 
     <groupId>za.co.absa.commons</groupId>
     <artifactId>scalatest-extras_2.11</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
 
     <parent>
         <groupId>za.co.absa</groupId>
@@ -83,7 +83,7 @@
         <url>https://github.com/AbsaOSS/scalatest-extras</url>
         <connection>${scm.connection}</connection>
         <developerConnection>${scm.developerConnection}</developerConnection>
-        <tag>HEAD</tag>
+        <tag>release/1.0.2</tag>
     </scm>
 
     <distributionManagement>
